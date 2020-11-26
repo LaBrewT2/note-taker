@@ -17,5 +17,5 @@ app.use("/", htmlRoutes);
 
 // Start the server on the port
 app.listen(PORT, function()  {
-    console.log("Listening on PORT:" + PORT)
+    console.log("Listening on PORT": + PORT)
 });
